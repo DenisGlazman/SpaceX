@@ -1,0 +1,190 @@
+header{
+    margin-top: 40px;
+}
+body{
+    background-color: black;
+    width: 1440px;
+}
+
+h1{
+    
+    font-family: sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 75px;
+    text-align: center;
+
+}
+
+h3{
+    font-family: sans-serif;
+    
+font-size: 24px;
+font-weight: 700;
+line-height: 33.6px;
+text-align: left;
+
+
+
+}
+h6{
+    font-family: sans-serif;
+   
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 300;
+line-height: 22.4px;
+text-align: center;
+
+
+}
+span{
+    height: 300%;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo{
+    margin-left: 30px;
+}
+.models{
+    margin-left: -450px;
+}
+.about{
+    margin-right: 30px;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    color: white;
+
+}
+.title h2{
+   
+font-size: 24px;
+font-weight: 700;
+line-height: 33.6px;
+text-align: left;
+
+}
+.title h6{
+    font-size: 16px;
+    font-family: sans-serif;
+    
+}
+.rocket{
+    display: flex;
+    flex-direction: row;
+}
+.rocket .img img {
+    background-color: black;
+    color: black;
+    
+}
+.description{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40%;
+}
+.description .first-block{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50%;
+}
+.second-block{
+    display: flex;
+    flex-direction: column;
+}
+.second-block .text1{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.75px;
+text-align: left;
+color: white;
+width: 55%;
+font-family: sans-serif;
+margin-left: 40px;
+
+}
+.description h3{
+    color: white;
+    margin-left: 40px;
+}
+
+
+
+.text-digits {
+    display: flex;
+    flex-direction: row;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32.34px;
+    text-align: left;
+    }
+.text-digits .text{
+    font: weight 50px;
+    color: black;
+}
+.text-digits .digits{
+    font: weight 50px;
+
+}
+.text-digits h3{
+    color: white;
+    font-size: 24px;
+    margin-left: 40px;
+}
+.rocket .description .text{
+    color:white;
+    width: 50%;
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-weight:lighter;
+    
+}
+.rocket .description .digits{
+    color: white;
+    width: 50%;
+    font-family: sans-serif;
+}
+
+.logo-footer{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.icons{
+    margin-top: 30px;
+}
+
+.logo-footer span{
+    color:  rgba(128, 128, 128, 1);
+    ;
+    margin: 20px;
+    }
+
+.logo-footer button{
+    width: 260px;
+height: 60px;
+border-color: white;
+
+border-radius: 6px;
+
+color: white;
+background-color: black;
+
+   
+    
+}
+.logo-footer button span{
+    width: 87px;
+    color: white;
+}
